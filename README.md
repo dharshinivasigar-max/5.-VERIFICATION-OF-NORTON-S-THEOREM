@@ -80,7 +80,8 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 **CALCULATION:**
  
-<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/2cb29b80-e72b-45f6-b1c2-36d5ec33fb09" />
+ <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/b9210e6f-139a-4495-9948-ace0ac7b4ff4" />
+
 
 **MARKS SPLIT-UP:**
 
