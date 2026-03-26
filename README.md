@@ -34,7 +34,7 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 **To measure IN or Isc**
 
- <img width="1600" height="804" alt="image" src="https://github.com/user-attachments/assets/0ed93493-5a2d-4b43-92c8-6949158340e3" />
+ <img width="1599" height="905" alt="image" src="https://github.com/user-attachments/assets/729398d8-0864-49cc-a9d1-7bb9b677e922" />
 
 **Thevenin’s equivalent circuit**
 
